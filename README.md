@@ -1,0 +1,2 @@
+# placeshare-server
+server
